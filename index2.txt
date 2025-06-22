@@ -1,2 +1,5 @@
 Hello i am in the index2.txt file.
+//Added my name below.
 My name is pavan.
+//Added my village 
+My village name is biloli.
